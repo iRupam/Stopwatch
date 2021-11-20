@@ -1,0 +1,17 @@
+#timer {
+  font-size: 50px;
+  font-family: courier;
+  color: black;
+  text-align: center;
+  margin-top: 100px;
+}
+#controls {
+  text-align: center;
+  padding: 8px;
+  display: block;
+  border-radius: 10px;
+}
+.btn {
+  top: 50%;
+  bottom: 50%;
+}
